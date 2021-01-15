@@ -1,6 +1,6 @@
 [package]
 name = "demo_repo"
-version = "0.2.2"
+version = "0.2.3"
 authors = ["rotemy"]
 edition = "2018"
 
